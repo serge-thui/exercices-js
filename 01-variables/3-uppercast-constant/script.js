@@ -1,4 +1,5 @@
-/*  Votre code Javascript vient ici:
-      - Vous pourrez visualiser le résultat en ouvrant index.html dans votre navigateur.
-      - N'oubliez pas de sauvegarder pour afficher les changements.
+/*
+pour la constante birthday oui il faut mettre en majuscule
+pour la constante age je mettrais en majuscule comme on emploie constante 
+mais cela peut-être facultatif comme elle est assignée à un calcul pas forcément Constant
 */
