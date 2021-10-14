@@ -1,4 +1,15 @@
-/*  Votre code Javascript vient ici:
-      - Vous pourrez visualiser le résultat en ouvrant index.html dans votre navigateur.
-      - N'oubliez pas de sauvegarder pour afficher les changements.
-*/
+let user = prompt("Who's there");
+if (user==''){
+      alert("Canceled");
+}else if (user!="Admin"){
+      alert("I don't know you");
+}else {
+      let pass = prompt("Password")
+      if ( pass == "TheMaster"){
+            alert("Welcome!");
+      }else if (pass!="TheMaster" && pass!=""){
+            alert("Wrong password");
+      }else{
+            alert("Canceled")
+      }
+}
