@@ -1,4 +1,1 @@
-/*  Votre code Javascript vient ici:
-      - Vous pourrez visualiser le résultat en ouvrant index.html dans votre navigateur.
-      - N'oubliez pas de sauvegarder pour afficher les changements.
-*/
+alert( null || 2 || undefined ); // null étant false et 2 true alors on affiche 2 la première valeur true
