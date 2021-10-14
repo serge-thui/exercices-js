@@ -2,7 +2,7 @@
 
 "Inclus" signifie que l’age peut atteindre les 14 ou 90 ans.
 */
-(age>=14||age<=90) ? 
+(age>=14 && age<=90) ? 
 // ou
 
-if (age>=14||age<=90){}
+if (age>=14 && age<=90){}
