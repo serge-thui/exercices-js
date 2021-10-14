@@ -1,4 +1,6 @@
-/*  Votre code Javascript vient ici:
-      - Vous pourrez visualiser le résultat en ouvrant index.html dans votre navigateur.
-      - N'oubliez pas de sauvegarder pour afficher les changements.
+/*  Ecrivez une condition if pour vérifier que l’age n’est PAS compris entre 14 et 90 ans inclus.
+
+Créez deux variantes: la première utilisant NOT !, La seconde - sans ce dernier.
 */
+
+if (age<14||age>90){}
