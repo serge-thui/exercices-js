@@ -1,4 +1,7 @@
-/*  Votre code Javascript vient ici:
-      - Vous pourrez visualiser le résultat en ouvrant index.html dans votre navigateur.
-      - N'oubliez pas de sauvegarder pour afficher les changements.
-*/
+// Utilisez la boucle for pour afficher les nombres pairs de 2 à 10.
+
+for (let i=2; i<11; i++){
+      if ( i%2 == 0){
+        alert(i);
+      }
+    }
